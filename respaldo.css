@@ -31,7 +31,6 @@ main{
     display: flex;
     justify-content: center;
     background-image: linear-gradient(to right,white, rgb(209, 209, 149)); 
-    height: 49rem;
 }    
 .redes{
     display: flex;
@@ -118,19 +117,7 @@ hr{
 .derecha{
     text-align: right;
 }
-.subi{
-    display: block;
-}
-.formulario{
-    padding-top: 12rem;
-    padding-bottom: 10rem;
-    padding-left: 35rem;
-    padding-right: 35rem;
-}
-.murata{
-    text-align: center;
-    font-size: 35px;
-}
+
 /*CONDICIONALES MEDIAS QUERIES*/
 @media screen and (min-width: 320px) {
     nav{
